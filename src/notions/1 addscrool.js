@@ -1,0 +1,12 @@
+/*
+
+Para adicionar scroll nos usamos scrollview 
+
+
+Para listas usamos o flatlist
+
+
+
+
+
+*/
